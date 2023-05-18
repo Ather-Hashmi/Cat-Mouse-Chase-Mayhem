@@ -20,16 +20,16 @@ Make sure you have Python 3.0 or above installed on your system.
 Clone this repository to your local machine or download the ZIP file.
 
 - Install the required dependencies by running the following command on the termu
-''' bash
+``` bash
  pip install pygame
-'''
+```
 #### Usage
 - Open a terminal or command prompt and navigate to the project directory
 - Run the following command to start the game:
 - Copy code
-'''bash
+```bash
  python main.py
-'''
+```
 - Use the arrow keys to control the movement of the mouse.
 
 - Collect cheese while avoiding the cat.
