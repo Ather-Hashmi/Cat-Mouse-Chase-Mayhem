@@ -28,7 +28,7 @@ Clone this repository to your local machine or download the ZIP file.
 - Run the following command to start the game:
 - Copy code
 ```bash
- python main.py
+ python GAME.py
 ```
 - Use the arrow keys to control the movement of the mouse.
 
