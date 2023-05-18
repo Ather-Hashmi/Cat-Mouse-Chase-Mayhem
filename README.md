@@ -3,8 +3,8 @@
 
 A fun Cat Mouse game implemented in Python using the Pygame module. This project was developed as part of the DSA (Data Structures and Algorithms) course.
 
-##Table of Contents
--Introduction
+## Table of Contents
+- Introduction
 -Installation
 -Usage
 -Features
